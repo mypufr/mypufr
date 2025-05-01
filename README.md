@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **mypufr/mypufr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+# 💫 Hi there  👋
  I'm a certified Fullstack Web Developer (Titre Professionnel Developppement Web et Web Mobile Niveau 5 – France) with a strong focus on building modern, user-centered web applications.
 
 🔭 I'm currently working on Paris Mon Guide, a web application for booking local tourist guides..<br>🌱 I'm currently learning TypeScript and Next.js.<br>🤝 I'm looking to collaborate on modern, user-focused web projects.
