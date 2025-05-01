@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
+ I'm a certified Fullstack Web Developer (Titre Professionnel Developppement Web et Web Mobile Niveau 5 – France) with a strong focus on building modern, user-centered web applications.
+
 🔭 I'm currently working on Paris Mon Guide, a web application for booking local tourist guides..<br>🌱 I'm currently learning TypeScript and Next.js.<br>🤝 I'm looking to collaborate on modern, user-focused web projects.
 
 I transitioned into web development with passion and purpose. I bring a creative and detail-oriented mindset, and I thrive in agile environments, whether working independently or collaboratively.
@@ -34,7 +36,6 @@ I transitioned into web development with passion and purpose. I bring a creative
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
 ---
 
